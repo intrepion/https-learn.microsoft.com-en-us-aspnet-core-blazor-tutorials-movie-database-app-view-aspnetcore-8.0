@@ -1,0 +1,50 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAppMovies", "BlazorWebAppMovies\BlazorWebAppMovies.csproj", "{F6C438C5-928E-490F-91B3-F2502D51A4FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAppMovies.Client", "BlazorWebAppMovies.Client\BlazorWebAppMovies.Client.csproj", "{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Debug|x64.Build.0 = Debug|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Debug|x86.Build.0 = Debug|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Release|x64.ActiveCfg = Release|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Release|x64.Build.0 = Release|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF95D2D7-2B93-43B4-96B2-0A6B52C2CD22}.Release|x86.Build.0 = Release|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Debug|x64.Build.0 = Debug|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Release|x64.Build.0 = Release|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{F6C438C5-928E-490F-91B3-F2502D51A4FE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {869B9756-95E2-49D2-891A-36731427FA4F}
+	EndGlobalSection
+EndGlobal
