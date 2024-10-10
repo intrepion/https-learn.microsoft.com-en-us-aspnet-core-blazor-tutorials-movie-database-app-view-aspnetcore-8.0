@@ -11,7 +11,7 @@ public partial class MovieAdminPages : PageTest
     public async Task MainNavigation()
     {
         await Expect(Page).ToHaveTitleAsync("Home");
-        await Page.GetByRole(AriaRole.Link, new() { Name = "PluralNamePlaceholder" }).ClickAsync();
+        await Page.GetByRole(AriaRole.Link, new() { Name = "Movies" }).ClickAsync();
         await Expect(Page).ToHaveTitleAsync("Movie List");
         await Page.GetByRole(AriaRole.Link, new() { Name = "Create" }).ClickAsync();
         await Expect(Page).ToHaveTitleAsync("Movie Creation");
